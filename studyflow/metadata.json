@@ -1,0 +1,6 @@
+{
+  "name": "StudyFlow",
+  "description": "AI-powered academic planning platform for college students to manage coursework, study schedules, assignments, and exams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
